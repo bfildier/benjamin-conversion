@@ -6,3 +6,4 @@ Conversion functions needed
  - Feet to Inches
  - Degrees to Radians
  - Joules to kWh
+yes!
